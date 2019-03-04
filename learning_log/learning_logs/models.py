@@ -1,3 +1,4 @@
+# coding=UTF-8
 from django.db import models #自django.db引入models模块
 
 # Create your models here.
